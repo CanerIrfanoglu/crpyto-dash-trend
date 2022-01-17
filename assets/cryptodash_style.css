@@ -1,0 +1,340 @@
+body {
+    background-color: #F6F9FC; 
+    font-family: "Roboto";
+    overflow-x: hidden;
+}
+
+.card {
+    /* border: 1px solid red; */
+    border-radius: 0.25rem;
+}
+
+/* Styling KPI card headers */
+.card-header {
+    background-color: #eaeaea;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Styling KPI card body */
+.card-body {
+    /* t r b l */
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+/* Hide default x in dropdown to clear */
+.Select-clear-zone {
+    display: none;
+}
+
+.Select-control, .Select-menu-outer, .Select-multi-value-wrapper, .select-up, .is-open .Select-control {
+    background-color: #F8F8F8;
+    font-weight: bold;    
+  }
+
+
+/* Crypto Dash Title */
+.app-name {
+    margin-left: 2rem;
+    color: #0045FF;
+
+}
+
+.crypto-dash-logo {
+    object-fit:fill;
+    padding-left: 25px;
+}
+
+/* Line Below Title */
+.app-name-line {
+    margin-left: 1rem;
+}
+
+
+
+.controls-shared {
+	background-color: transparent;
+    border: none;
+}
+
+#trend-graph {
+	height:55vh;
+    margin: 0rem 1rem 1rem 1rem;
+}
+
+
+ /* For adding shadow effect around card borders */
+/* .shadow-card {
+    border-style: none;
+    overflow: hidden;
+    border-radius: 0.25rem;
+    -webkit-box-shadow: 0px 0px 4px 0px rgba(199; 199; 199; 1);
+    -moz-box-shadow: 0px 0px 4px 0px rgba(199; 199; 199; 1);
+    box-shadow: 0px 0px 4px 0px rgba(199; 199; 199; 1);
+} */
+
+
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus {
+	box-shadow: none
+}
+
+.header-card {
+    padding: 1rem 2rem 1rem 0rem;
+    border-bottom: 1px solid #D3D3D3 !important;
+    border-radius: 0;
+    /* Prevents header card to collapse into sidebar when there's scroll rhs */
+    position:static;
+}
+
+.btn-outline-primary {
+    color: #0045FF;
+    border-color: #0045FF;
+}
+
+/* Override animation appearing on quick select */
+.btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none;
+ }
+
+ /* setting selected button color */
+ .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0045FF;
+    border-color: #0045FF;
+}
+
+/* Custom selector styling */
+#range-min-max-date {
+    font-size: small;
+    margin-bottom: 0rem;
+}
+
+/* Slider Styling */
+.rc-slider-track {
+    background-color: #0045FF;
+}
+
+.rc-slider-handle {
+    border: solid 2px #0045FF;
+}
+
+.range-slider-style {
+    padding: 0px 0px 0px !important;
+}
+
+#submit-range-button {
+    font-size: medium;
+    border-color: #0045FF;
+
+}
+
+
+/* styling the sidebar */
+.sidebar-style {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 16rem;
+    padding: 2rem 1rem 2rem 0rem;
+    border: 1px solid #D3D3D3;
+    background-color: white;
+}
+
+/* Card containing header + content */
+.right-side-card {
+    margin-left: 16rem;
+    overflow-x: hidden;
+}
+
+/* padding for the page content */
+.content-style {
+    padding: 1rem 3rem 1rem 3rem;
+    /* border: 1px solid blue; */
+    
+}
+
+.kpi-historic-period {
+    color: #8B8B8B;
+}
+
+/* Add vertical space btw 24h & period beginning */
+.kpi-historic-period-div {
+    margin-top: 10px;
+}
+
+#card-last-price-percent {
+    font-size:14px;
+    margin-top: 5px;
+}
+
+/* Row containing last price + % changes */
+.price-card-row {
+    margin-top: 20px;
+}
+
+#card-last-price {
+    margin-left: 3rem;
+    font-size:1.75rem;
+    font-weight: bold;
+    color:#FF7600;
+
+}
+
+/* Setting min height for fixing height of kpis */
+.kpi-div {
+    min-height: 180px;
+}
+
+
+/* Add space between kpi & graphs */
+.page-graphs {
+    margin-top: 35px;
+}
+
+
+
+/* Navigation Menu Option colors */
+.nav-pills a {
+    color: #080808;
+    font-size: 20px;
+  }
+  
+  /* Navigation menu selection */
+  .nav-pills .nav-link.active { 
+    color:  #080808; 
+    background-color: #C7DEFF; 
+    font-weight: bold;
+    border-radius: 0px 50px 50px 0px;
+  }
+
+/* Styling for the tooltip explanations */
+.dot {
+    font-size: x-small;
+    height: 1rem;
+    width: 1rem;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+/* Override default row margin for showing tooltips inside */
+.row-custom {
+    margin-right: 10px;
+}
+
+/* Boolswitch label top row */
+.tooltip-row-top {
+    float:left;
+    margin-left: 20px;
+}
+/* Boolswitch label bottom row */
+.tooltip-row-bottom {
+    float:left;
+    margin-left: 20px; 
+}
+
+/* Boolswitch label text */
+.tooltip-text {
+    padding-top: 2px;
+    margin-bottom: 5px;
+    font-size:14px;
+}
+
+/* Override default boolswitch justify */
+.jAjsxw {
+    justify-content: start !important;
+}
+
+
+.external-link-div {
+    position: absolute;
+    padding-top: 1rem;
+    margin-left: 0.5rem;
+}
+
+/* For the feedback form */
+.vertical-center {
+    margin-top: 5rem;
+  }
+
+.disclaimer-div {
+    position: static;
+    width: 80%;
+    margin-left: 16rem;
+    padding-left: 3rem;
+    bottom: 0rem;
+    /* background-color: lightblue; */
+    color: grey;
+
+}
+
+.P-special {
+    margin-bottom: 0rem;
+}
+
+
+
+/* MOBILE STYLING BELOW */
+
+@media only screen and (max-width: 1140px) {
+
+    /* Last 24h, last 3m etc. smaller */
+    h6 {
+        font-size: 0.75rem;
+    }
+
+    /* Center and vertical distance period quick selectors as 2nd line */
+    .quick-selectors-div {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    #card-last-price {
+        margin-left: 0rem;
+        text-align: center;
+        font-size: 1.5rem;
+        
+    }
+
+    /* When position is fixed, width & height set wrt viewport. Therefore, we 
+    need to set overflow to expand sidebar for the items below viewport  */
+    .sidebar-style {
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+    
+}
+
+
+/* Force Horizontal layout on mobile*/
+@media only screen and (min-width: 320px) and (max-width: 951px) and (orientation: portrait) {
+    html {
+      transform: rotate(-90deg);
+      transform-origin: left top;
+      width: 100vh;
+      height: 100vw;
+      overflow-x: hidden;
+      position: absolute;
+      top: 100%;
+      left: 0;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

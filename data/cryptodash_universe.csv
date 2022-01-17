@@ -1,0 +1,198 @@
+cryptocompare_symbol,cryptocompare_id,coingecko_id,coingecko_symbol,coingecko_name
+ETH,7605,ethereum,eth,Ethereum
+BTC,1182,bitcoin,btc,Bitcoin
+XRP,5031,ripple,xrp,XRP
+VTC,5018,vertcoin,vtc,Vertcoin
+POWR,339617,power-ledger,powr,Power Ledger
+OMG,187440,omisego,omg,OMG Network
+ADA,321992,cardano,ada,Cardano
+LTC,3808,litecoin,ltc,Litecoin
+DATA,369151,streamr,data,Streamr DATAcoin
+NEO,27368,neo,neo,NEO
+VET,236131,vechain,vet,VeChain
+NANO,172091,nano,nano,Nano
+BAT,107672,basic-attention-token,bat,Basic Attention Token
+ENJ,283116,enjincoin,enj,Enjin Coin
+NEXO,877073,nexo,nexo,NEXO
+LINK,309621,chainlink,link,Chainlink
+DOT,935731,polkadot,dot,Polkadot
+UNI,936630,uniswap,uni,Uniswap
+CRO,929418,crypto-com-chain,cro,Crypto.com Coin
+INJ,937043,injective-protocol,inj,Injective Protocol
+SNX,816635,havven,snx,Synthetix Network Token
+ROSE,937509,oasis-network,rose,Oasis Network
+AAVE,936952,aave,aave,Aave1
+MATIC,930246,matic-network,matic,Polygon
+BNB,204788,binancecoin,bnb,Binance Coin
+MKR,41192,maker,mkr,Maker
+GRT,938098,the-graph,grt,The Graph
+AVA,248300,concierge-io,ava,Travala.com
+TRB,933019,tellor,trb,Tellor
+RAMP,937397,ramp,ramp,RAMP
+AVAX,935805,avalanche-2,AVAX,Avalanche
+DOGE,4432,dogecoin,doge,Dogecoin
+SOL,851021.0,solana,sol,Solana
+LUNA,931668.0,terra-luna,luna,Terra
+SHIB,940776.0,shiba-inu,shib,Shiba Inu
+ALGO,930992.0,algorand,algo,Algorand
+NEAR,937105.0,near,near,Near
+ATOM,199107.0,cosmos,atom,Cosmos
+BCH,202330.0,bitcoin-cash,bch,Bitcoin Cash
+TRX,310829.0,tron,trx,TRON
+XLM,4614.0,stellar,xlm,Stellar
+FTM,928158.0,fantom,ftm,Fantom
+MANA,199148.0,decentraland,mana,Decentraland
+AXS,937569.0,axie-infinity,axs,Axie Infinity
+FTT,931676.0,ftx-token,ftt,FTX Token
+HBAR,932121.0,hedera-hashgraph,hbar,Hedera
+ICP,941276.0,internet-computer,icp,Internet Computer
+SAND,936179.0,the-sandbox,sand,The Sandbox
+FIL,213663.0,filecoin,fil,Filecoin
+EGLD,936373.0,elrond-erd-2,egld,Elrond
+THETA,714811.0,theta-token,theta,Theta Network
+ETC,5324.0,ethereum-classic,etc,Ethereum Classic
+XTZ,166390.0,tezos,xtz,Tezos
+HNT,935965.0,helium,hnt,Helium
+XMR,5038.0,monero,xmr,Monero
+MIOTA,127356.0,iota,miota,IOTA
+LEO,930571.0,leo,leo,Leo
+KLAY,932843.0,klay-token,klay,Klaytn
+ONE,930623.0,harmony,one,Harmony
+ONE,930623.0,one,one,One
+EOS,166503.0,eos,eos,EOS
+GALA,936750.0,gala,gala,Gala
+CAKE,936880.0,pancakeswap-token,cake,PancakeSwap
+STX,932603.0,blockstack,stx,Stacks
+FLOW,936778.0,flow,flow,Flow
+CRV,936137.0,curve-dao-token,crv,Curve DAO Token
+LRC,318169.0,loopring,lrc,Loopring
+BTT,928723.0,bittorrent-2,btt,BitTorrent
+KSM,932932.0,kusama,ksm,Kusama
+RUNE,932760.0,thorchain,rune,THORChain
+BSV,926591.0,bitcoin-cash-sv,bsv,Bitcoin SV
+XEC,206539.0,ecash,xec,eCash
+QNT,928790.0,quant-network,qnt,Quant
+AMP,936528.0,amp-token,amp,Amp
+ZEC,24854.0,zcash,zec,Zcash
+AR,935292.0,arweave,ar,Arweave
+KDA,933615.0,kadena,kda,Kadena
+CELO,935634.0,celo,celo,Celo
+KCS,348628.0,kucoin-shares,kcs,KuCoin Token
+CHZ,931799.0,chiliz,chz,Chiliz
+OKB,925144.0,okb,okb,OKB
+WAVES,20131.0,waves,waves,Waves
+HT,771595.0,huobi-token,ht,Huobi Token
+DASH,3807.0,dash,dash,Dash
+YFI,935926.0,yearn-finance,yfi,yearn.finance
+COMP,935546.0,compound-governance-token,comp,Compound
+HOT,890645.0,holotoken,hot,Holo
+MINA,940786.0,mina-protocol,mina,Mina Protocol
+XDC,933001.0,xdce-crowd-sale,xdc,XDC Network
+IOTX,893122.0,iotex,iotx,IoTeX
+XEM,5285.0,nem,xem,NEM
+1INCH,938199.0,1inch,1inch,1inch
+RVN,794350.0,ravencoin,rvn,Ravencoin
+SUSHI,936306.0,sushi,sushi,Sushi
+TFUEL,929751.0,theta-fuel,tfuel,Theta Fuel
+SCRT,936987.0,secret,scrt,Secret
+VLX,932746.0,velas,vlx,Velas
+DCR,16713.0,decred,dcr,Decred
+CEL,799472.0,celsius-degree-token,cel,Celsius Network
+BORA,930697.0,bora,bora,BORA
+GNO,66193.0,gnosis,gno,Gnosis
+ZIL,716725.0,zilliqa,zil,Zilliqa
+QTUM,112392.0,qtum,qtum,Qtum
+WAXP,338541.0,wax,waxp,WAX
+ANKR,929313.0,ankr,ankr,Ankr
+LPT,926589.0,livepeer,lpt,Livepeer
+ELON,941017.0,dogelon-mars,elon,Dogelon Mars
+ICX,324068.0,icon,icx,ICON
+IMX,58121.0,immutable-x,imx,Immutable X
+REV,345420.0,revain,rev,Revain
+AUDIO,937428.0,audius,audio,Audius
+RENBTC,936208.0,renbtc,renbtc,renBTC
+VGX,141464.0,ethos,vgx,Voyager Token
+BNT,22327.0,bancor,bnt,Bancor Network Token
+ZRX,186277.0,0x,zrx,0x
+NFT,941588.0,apenft,nft,APENFT
+SC,13072.0,siacoin,sc,Siacoin
+ZEN,116180.0,zencash,zen,Horizen
+SYS,4618.0,syscoin,sys,Syscoin
+BTG,347235.0,bitcoin-gold,btg,Bitcoin Gold
+FLUX,941228.0,zelcash,flux,Flux
+TEL,683827.0,telcoin,tel,Telcoin
+PERP,937470.0,perpetual-protocol,perp,Perpetual Protocol
+CKB,932619.0,nervos-network,ckb,Nervos Network
+SKL,937954.0,skale,skl,SKALE
+KAVA,932609.0,kava,kava,Kava
+STORJ,187347.0,storj,storj,Storj
+HIVE,934361.0,hive,hive,Hive
+CHSB,752993.0,swissborg,chsb,SwissBorg
+IOST,716522.0,iostoken,iost,IOST
+ONT,808414.0,ontology,ont,Ontology
+UMA,935562.0,uma,uma,UMA
+REN,788239.0,republic-protocol,ren,REN
+OCEAN,930413.0,ocean-protocol,ocean,Ocean Protocol
+WOO,937487.0,woo-network,woo,WOO Network
+DYDX,943395.0,dydx,dydx,dYdX
+RAY,939325.0,raydium,ray,Raydium
+NU,937212.0,nucypher,nu,NuCypher
+CEEK,853825.0,ceek,ceek,CEEK Smart VR Token
+MOVR,943212.0,moonriver,movr,Moonriver
+GT,931795.0,gatechain-token,gt,GateToken
+DGB,4430.0,digibyte,dgb,DigiByte
+POLY,744820.0,polymath,poly,Polymath
+SRM,936118.0,serum,srm,Serum
+GLM,33022.0,golem,glm,Golem
+CELR,929546.0,celer-network,celr,Celer Network
+ANT,78152.0,aragon,ant,Aragon
+CHR,930686.0,chromaway,chr,Chromia
+TRAC,716641.0,origintrail,trac,OriginTrail
+XYO,795305.0,xyo-network,xyo,XYO Network
+WIN,931583.0,wink,win,WINkLink
+XDB,20826.0,digitalbits,xdb,DigitalBits
+UOS,930865.0,ultra,uos,Ultra
+FEI,941105.0,fei-usd,fei,Fei USD
+JST,934837.0,just,jst,JUST
+DENT,141331.0,dent,dent,Dent
+FET,929174.0,fetch-ai,fet,Fetch.ai
+RSR,930621.0,reserve-rights-token,rsr,Reserve Rights Token
+WRX,933778.0,wazirx,wrx,WazirX
+ALICE,939891.0,my-neighbor-alice,alice,My Neighbor Alice
+SXP,931777.0,swipe,sxp,Swipe
+CSPR,941347.0,casper-network,cspr,Casper Network
+REQ,335059.0,request-network,req,Request
+FX,28336.0,fx-coin,fx,Function X
+CTSI,934538.0,cartesi,ctsi,Cartesi
+SOUL,902442.0,phantasma,soul,Phantasma
+COTI,925272.0,coti,coti,COTI
+DUSK,928535.0,dusk-network,dusk,DUSK Network
+PAXG,932177.0,pax-gold,paxg,PAX Gold
+DVI,937615.0,dvision-network,dvi,Dvision Network
+MDX,939147.0,mdex,mdx,Mdex
+REEF,938107.0,reef-finance,reef,Reef Finance
+ALPHA,936966.0,alpha-finance,alpha,Alpha Finance
+MED,937972.0,medibloc,med,Medibloc
+LSK,19745.0,lisk,lsk,Lisk
+XVG,4433.0,verge,xvg,Verge
+EWT,934334.0,energy-web-token,ewt,Energy Web Token
+VTHO,926064.0,vethor-token,vtho,VeThor Token
+DAG,925129.0,constellation-labs,dag,Constellation
+POLS,936871.0,polkastarter,pols,Polkastarter
+BCD,409492.0,bitcoin-diamond,bcd,Bitcoin Diamond
+NKN,897496.0,nkn,nkn,NKN
+OXT,933032.0,orchid-protocol,oxt,Orchid Protocol
+KP3R,937463.0,keep3rv1,kp3r,Keep3rV1
+RLC,61877.0,iexec-rlc,rlc,iExec RLC
+BTCST,938531.0,btc-standard-hashrate-token,btcst,BTC Standard Hashrate Token
+ARDR,30173.0,ardor,ardr,Ardor
+BICO,945009.0,biconomy,bico,Biconomy
+CVC,139467.0,civic,cvc,Civic
+OGN,933180.0,origin-protocol,ogn,Origin Protocol
+SNT,137013.0,status,SNT,Status
+UBT,889870.0,unibright,ubt,Unibright
+CFX,937778.0,conflux-token,cfx,Conflux
+ELF,571314.0,aelf,elf,aelf
+SUN,936492.0,sun-token,sun,Sun Token
+STMX,935195.0,storm,stmx,StormX
+

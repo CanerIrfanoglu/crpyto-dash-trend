@@ -1,1 +1,2 @@
-# crpyto-dash-trend
+# crypto-dash
+Crypto Dash App
